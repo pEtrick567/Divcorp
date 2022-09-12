@@ -1,0 +1,16 @@
+#div2{
+    width: 500px;
+    height: 290px;
+    margin-left: 500px;
+    margin-top: 30vh;
+}
+
+#div3{
+    background-image: url(../Imagem/dogecat.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 269px;
+    margin-left: 500px;
+    margin-top: -270px;
+}
