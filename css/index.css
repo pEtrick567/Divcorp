@@ -7,3 +7,6 @@
     width: 50px;
     height: 50x;
 }
+body{
+    background-image: url(../Imagem/teste.png) !important;
+}
