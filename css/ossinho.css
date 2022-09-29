@@ -1,0 +1,13 @@
+.imgcard {
+    height: 250px;
+    width: auto;
+
+}
+
+.cardm {
+    display: flex;
+}
+
+body{
+    background-color: aqua;
+}
