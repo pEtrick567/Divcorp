@@ -1,4 +1,6 @@
-    #botao2{
+
+
+#botao2{
     margin-left: 30vh;
 }
 
@@ -9,6 +11,7 @@
 }
 
 .a{
+    margin-left: 10%;
     height: 390px;
     width: 1100px;
     margin-top: 1vh;
@@ -19,21 +22,15 @@
 }
 
 body{
-    background-color: rgb(214, 214, 214) !important;
+    background-color: rgb(192, 191, 191) !important;
 }
 
 #novamente{
     margin-top: 10vh;
-
+    margin-left: 19vh;
 }
 
 #Relampago{
     margin-top: 10vh;
-
-}
-
-#barra{
-    background-color: white;
-    width: 100%px;
-    height: 50px;
+    margin-left: 19vh;
 }
